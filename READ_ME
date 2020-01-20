@@ -1,0 +1,15 @@
+The objective of Group 2 is divided into 2 parts: 
+
+- To make descriptive statistics on the data in order to best describe the data sources and highlight trends. 
+- Perform analyses to explain the prediction models of groups 5 and 6.
+
+Each part has a notebook dedicated to it g2_statistics_results and g2_model_explanation.  
+
+
+Moreover, all our analyses (with the exception of PCAs) have been implemented from functions.  
+This has been done first to lighten the notebook of results but also to be able to reuse our work and adapt it easily to your needs. Finally, some of our analyses can be visualized from the dashbord in a dynamic way and to do so, the functions are essential.
+
+So we grouped all the functions (statistics and explanation of the models) in a notebook named g2_functions.
+
+
+Finally, a notebook g2_annaxes_analyses will be available for further analysis. It will include Others principal component analysis whose results seemed less relevant to us, an analysis of the documents essential to be able to start correlation work and an analysis carried out to help the text group to analyse the similarity of word distributions across data sets.
